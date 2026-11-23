@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/dorukbarutcu/okullabkalkan/releases/download/v2.0.1/OkulLabKalkani_Setup.exe",
+  "version": "2.0.2",
+  "download_url": "https://github.com/dorukbarutcu/okullabkalkan/releases/download/v2.0.2/OkulLabKalkani_Setup.exe",
   "raw_download_url": "https://raw.githubusercontent.com/dorukbarutcu/okullabkalkan/main/Output/OkulLabKalkani_Setup.exe",
   "sha256": "CA48CD6C409F31F40AC359E7BBF2865B9B87A2A7F0392F1ECAB6CAB4A75934FC",
-  "changelog": "v2.0.1: Kapalı kaynak koruması, Google XOX engelleme, kulaklık denetimi ve sessiz otomatik güncelleme."
+  "changelog": "v2.0.2: Canlı Otomatik Güncelleme Testi - Başarıyla Yüklendi."
 }
