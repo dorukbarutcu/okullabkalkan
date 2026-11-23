@@ -1,0 +1,25 @@
+# Kapalı Kaynak Koruması - Python Kaynak Kodları Asla Paylaşılamaz
+*.py
+*.pyw
+*.spec
+*.iss
+*.bat
+__pycache__/
+build/
+dist/
+dist_obf/
+*.log
+*.txt
+
+# Veri ve Ayar Dosyaları (API anahtarları ve şifreler korunur)
+config.json
+daily_stats.json
+telegram_subscribers.json
+templates/
+
+# Yalnızca Dağıtım ve Sürüm Dosyalarına İzin Ver
+!version.json
+!README.md
+!icon.ico
+!Output/
+!Output/OkulLabKalkani_Setup.exe
